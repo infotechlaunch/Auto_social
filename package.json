@@ -310,8 +310,9 @@
   },
   "pnpm": {
     "overrides": {
-      "next": "14.2.35"
-    },
+      "next": "14.2.35",
+      "ioredis": "^5.3.2"
+ },
     "onlyBuiltDependencies": [
       "bcrypt"
     ]
